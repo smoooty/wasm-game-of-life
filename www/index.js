@@ -1,6 +1,6 @@
 // @ts-check
 // I just set, "js/ts.implicitProjectConfig.checkJs": true in vscode settings
-import { memory } from "wasm-game-of-life/wasm_game_of_life_bg";
+import { memory } from "wasm-game-of-life/wasm_game_of_life_bg.wasm";
 
 import { Universe } from "wasm-game-of-life";
 
